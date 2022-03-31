@@ -1,0 +1,55 @@
+﻿@model IEnumerable<WebShopMoHinh.Models.SanPham>
+@using WebShopMoHinh.Models
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<h2>
+    Sản Phẩm
+</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<link href="~/Content/staff/IndexProduct.css" rel="stylesheet" />
+<form action="~/QLHOTEL/SheratonHanoiHotel" method="post">
+</form>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <table class="table table-image">
+                <thead>
+                    <tr>
+                        <th scope="col">ID</th>
+                        <th scope="col">Tên</th>
+                        <th scope="col">Miêu tả</th>
+                        <th scope="col">Giá</th>
+                        <th scope="col">Nhà sản xuất</th>
+                        <th scope="col">Hình ảnh</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.SanPhams)
+                    {
+                        <tr>
+                            <td>@item.spID</td>
+                            <td>@item.spName</td>
+                            <td>@item.spMieuta</td>
+                            <td>@item.gia</td>
+                            <td>@item.nhasanxuatID</td>
+                            <td class="w-25">
+                                <img src="~/Content/image/@item.Images" class="img-fluid img-thumbnail" alt="">
+                            </td>
+
+                            <td><a href="/Admin/Product/Edit/@item.spID">Edit</a></td>
+                            <td><a href="/Admin/Product/Details/@item.spID">Deltais</a></td>
+                            <td><a href="#" onclick="if (confirm('Bạn có chắc muốn xoá không?') == true) { location.href='/Admin/Product/Delete/@item.spID' }">Delete</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,31 @@
+﻿@model WebShopMoHinh.Models.QuocGia
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<h2>Chi Tiết Quốc Gia</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            ID Quốc Gia:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.qgID)
+        </dd>
+
+        <dt>
+            Tên Quốc Gia:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.qgName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.qgID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

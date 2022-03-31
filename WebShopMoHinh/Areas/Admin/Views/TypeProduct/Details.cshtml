@@ -1,0 +1,35 @@
+﻿@model WebShopMoHinh.Models.LoaiSanPham
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Chi Tiết Loại Sản Phẩm </h2>
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            ID Loại Sản Phẩm:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lspID)
+        </dd>
+
+        <dt>
+            Loại Sản Phẩm:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lspName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.lspID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

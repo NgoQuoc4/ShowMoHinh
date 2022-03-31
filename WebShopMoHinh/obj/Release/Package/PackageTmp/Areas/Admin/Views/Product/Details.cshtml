@@ -1,0 +1,82 @@
+﻿@model WebShopMoHinh.Models.SanPham
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div>
+    <h2>Chi Tiết Sản Phẩm</h2>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên Sản Phẩm:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.spName)
+        </dd>
+
+        <dt>
+            Miêu tả:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.spMieuta)
+        </dd>
+
+        <dt>
+            Ngày Sản Xuất:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.spNgaySanXuat)
+        </dd>
+
+        <dt>
+            Giá:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.gia)
+        </dd>
+
+        <dt>
+            Hình Ảnh:
+        </dt>
+
+        <dd>
+            <img src="~/Content/image/@Model.Images" class="img-fluid img-thumbnail" alt="" width="200" height="200">
+        </dd>
+
+        <dt>
+            Kích cỡ (Size):
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Size)
+        </dd>
+
+        <dt>
+            Loại Sản Phẩm:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LoaiSanPham.lspName)
+        </dd>
+
+        <dt>
+            Nhà Sản Xuất:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NhaSanXuat.nhasanxuatName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.spID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

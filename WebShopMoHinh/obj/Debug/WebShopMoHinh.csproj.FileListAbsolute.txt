@@ -1,0 +1,136 @@
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\WebShopMoHinh.dll.config
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\WebShopMoHinh.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\WebShopMoHinh.pdb
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csc.exe
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csc.exe.config
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csc.rsp
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csi.exe
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csi.exe.config
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csi.rsp
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Buffers.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Memory.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\vbc.exe
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\vbc.exe.config
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\vbc.rsp
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Antlr3.Runtime.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\EntityFramework.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\EntityFramework.SqlServer.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Newtonsoft.Json.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\PagedList.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\PagedList.Mvc.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Helpers.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Mvc.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Optimization.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Razor.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.Razor.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\WebGrease.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Antlr3.Runtime.pdb
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\EntityFramework.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\EntityFramework.SqlServer.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Newtonsoft.Json.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\PagedList.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\PagedList.Mvc.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Optimization.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Razor.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.Razor.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Helpers.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Mvc.xml
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.csproj.CopyComplete
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.dll
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.pdb
+C:\Users\Hi\Desktop\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.csproj.AssemblyReference.cache
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\WebShopMoHinh.dll.config
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\WebShopMoHinh.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\WebShopMoHinh.pdb
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csc.exe
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csc.exe.config
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csc.rsp
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csi.exe
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csi.exe.config
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\csi.rsp
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Buffers.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Memory.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\vbc.exe
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\vbc.exe.config
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\vbc.rsp
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Antlr3.Runtime.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\EntityFramework.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\EntityFramework.SqlServer.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Newtonsoft.Json.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\PagedList.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\PagedList.Mvc.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Helpers.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Mvc.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Optimization.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Razor.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.Razor.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\WebGrease.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Antlr3.Runtime.pdb
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\EntityFramework.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\EntityFramework.SqlServer.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\Newtonsoft.Json.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\PagedList.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\PagedList.Mvc.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Optimization.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Razor.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Webpages.Razor.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Helpers.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\bin\System.Web.Mvc.xml
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.csproj.AssemblyReference.cache
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.csproj.CopyComplete
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.dll
+C:\Users\Hi\Desktop\Đồ án\ĐÔ ÁN MÔN HỌC\WebShopMoHinh\WebShopMoHinh\obj\Debug\WebShopMoHinh.pdb

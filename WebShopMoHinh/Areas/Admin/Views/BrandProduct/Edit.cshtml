@@ -1,0 +1,52 @@
+﻿@model WebShopMoHinh.Models.NhaSanXuat
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Chỉnh Sửa Nhà Sản Xuất</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+ 
+<div class="form-horizontal">
+    
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.nhasanxuatID)
+
+<div class="form-group">
+    Tên Nhà Sản Xuất:
+    <div class="col-md-10">
+        @Html.EditorFor(model => model.nhasanxuatName, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.nhasanxuatName, "", new { @class = "text-danger" })
+    </div>
+</div>
+
+        <div class="form-group">
+            ID Quốc Gia:
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.qgID, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.qgID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            Tên Quốc Gia:
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.QuocGia.qgName, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+  
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

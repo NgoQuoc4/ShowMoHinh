@@ -1,0 +1,35 @@
+﻿@model WebShopMoHinh.Models.NhaSanXuat
+
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Chi Tiết Nhà Sản Xuất</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nhà Sản Xuất:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nhasanxuatName)
+        </dd>
+
+        <dt>
+            ID Quốc Gia:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.qgID)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.nhasanxuatID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+

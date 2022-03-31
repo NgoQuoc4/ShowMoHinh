@@ -1,0 +1,48 @@
+﻿@model IEnumerable<WebShopMoHinh.Models.NhanVien>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Nhân Viên</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Họ và tên</th>
+        <th scope="col">Địa Chỉ</th>
+        <th scope="col">SDT</th>
+        <th scope="col">Hình Ảnh</th>
+        <th scope="col">Username</th>
+        <th scope="col">Password</th>  
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>@item.nvID</td>
+    <td>@item.HoTen</td>
+    <td>@item.DiaChi</td>
+    <td>@item.SDT</td>
+
+    <td class="w-25">
+        <img src="@item.image" class="img-fluid img-thumbnail" alt="">
+    </td>
+    <td>@item.username</td>
+    <td>@item.password</td>
+
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.nvID }) |
+        @Html.ActionLink("Details", "Details", new { id = item.nvID }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.nvID })
+    </td>
+</tr>
+    }
+
+</table>

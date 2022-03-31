@@ -1,0 +1,42 @@
+﻿@model IEnumerable<WebShopMoHinh.Models.QuocGia>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Quốc Gia</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ID Quốc Gia:
+        </th>
+        <th>
+            Tên Quốc Gia:
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.qgID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.qgName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.qgID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.qgID }) 
+
+                @*
+        @Html.ActionLink("Delete", "Delete", new { id = item.qgID })
+                    *@
+            </td>
+        </tr>
+    }
+
+</table>

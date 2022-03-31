@@ -1,0 +1,107 @@
+﻿@model WebShopMoHinh.Models.SanPham
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+        
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">   
+    <h4>Tạo Mới Sản Phẩm</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+    @*
+        <div class="form-group">
+            @Html.LabelFor(model => model.spID, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.spID, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.spID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    *@
+
+
+    <div class="form-group">
+        Tên Sản Phẩm:
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.spName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.spName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        Miêu tả:
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.spMieuta, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.spMieuta, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        Ngày Sản Xuất:
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.spNgaySanXuat, new { htmlAttributes = new { @class = "form-control", type = "date" } })
+            @Html.ValidationMessageFor(model => model.spNgaySanXuat, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        Loại Sản Phẩm:
+        <div class="col-md-10">
+            @Html.DropDownList("lspID", (IEnumerable<SelectListItem>)ViewBag.types, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.lspID, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        Nhà Sản Xuất:
+        <div class="col-md-10">
+            @Html.DropDownList("nhasanxuatID", (IEnumerable<SelectListItem>)ViewBag.manus, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.nhasanxuatID, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        Giá:
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.gia, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.gia, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        Hình Ảnh:
+        <div class="col-md-10">
+            <input type="file" name="Images" class="form-control" id="content-wrapper" />
+
+
+            @Html.ValidationMessageFor(model => model.Images, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        Kích cỡ (Size):
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Size, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Size, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

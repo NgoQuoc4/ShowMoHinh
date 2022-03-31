@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebShopMoHinh.Models.NhaSanXuat>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Nhà Sản Xuất</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Nhà Sản Xuất
+        </th>
+        <th>
+            ID
+        </th>
+        <th>
+            Tên Quốc Gia
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nhasanxuatName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.qgID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuocGia.qgName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.nhasanxuatID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.nhasanxuatID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.nhasanxuatID })
+            </td>
+        </tr>
+    }
+
+</table>
